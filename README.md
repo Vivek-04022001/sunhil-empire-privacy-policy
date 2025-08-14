@@ -1,7 +1,7 @@
 
 # **Sunhill Empire – Privacy Policy**
 
-**Effective Date:** \[14-8-2025]
+**Effective Date:** 14-8-2025
 
 Sunhill Empire (“we”, “our”, “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and share your data when you use our mobile application and related services.
 
@@ -104,8 +104,8 @@ We may update this Privacy Policy from time to time. Changes will be posted with
 ## **10. Contact Us**
 
 If you have any questions about this Privacy Policy, contact us at:
-**Email:** \[[sunhilempire@gmail.com](mailto:sunhilempire@gmail.com)]
-**Phone:** \[+91 9450329241]
-**Address:** \[Sunhil Group, Sector 104 , Noida , UP]
+**Email:** [sunhilempire@gmail.com](mailto:sunhilempire@gmail.com)
+**Phone:** +91 9450329241
+**Address:** Sunhil Group, Sector 104 , Noida , UP
 
 
