@@ -1,7 +1,7 @@
 
 # **Sunhill Empire – Privacy Policy**
 
-**Effective Date:** \[Enter Date]
+**Effective Date:** \[14-8-2025]
 
 Sunhill Empire (“we”, “our”, “us”) respects your privacy and is committed to protecting your personal information. This Privacy Policy explains how we collect, use, store, and share your data when you use our mobile application and related services.
 
